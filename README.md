@@ -13,8 +13,7 @@ This dashboard analyzes social media usage patterns among students, focusing on 
 ## Business Problem 
 To analyze the impact of social media usage on students’ academic performance, mental health, daily routine, and sleep patterns, with the goal of identifying harmful usage trends and promoting healthier digital habits.
 
-# ![image](https://github.com/user-attachments/assets/46bd92a2-c2c0-459c-a80a-95a49f4afde6)
- Key Insights from the Dashboard
+# ![image](https://github.com/user-attachments/assets/46bd92a2-c2c0-459c-a80a-95a49f4afde6) Key Insights from the Dashboard
 
 
 
