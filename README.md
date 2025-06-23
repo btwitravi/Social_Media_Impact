@@ -17,8 +17,18 @@ To analyze the impact of social media usage on students’ academic performance,
 ![image](https://github.com/user-attachments/assets/f22713cd-0c75-4755-9f7b-629dfb2e3641)
 
 ## 1. Platform Popularity 
-### Facebook, Instagram, Tik-Tok, and WhatsApp are the top-used platforms.
+#### Facebook, Instagram, Tik-Tok, and WhatsApp are the top-used platforms.
 #### Insight: Students prefer entertainment and chat-based platforms over educational or professional ones like LinkedIn.
+![image](https://github.com/user-attachments/assets/d795fb28-c46e-401f-87a3-173e5cfe4f0c)
+
+## 2. Time Spent vs Mental Health
+#### Students who use social media 0–2 hours/day have high mental health scores (9/10).
+#### As daily usage increases, mental health scores drop to 5/10.
+#### Insight: There’s a negative correlation between time spent on social media and mental health.
+![image](https://github.com/user-attachments/assets/5edee726-0508-4706-a3b0-f19a557e8340)
+
+
+
 
 
 
