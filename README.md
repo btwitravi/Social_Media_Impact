@@ -42,7 +42,7 @@ To analyze the impact of social media usage on students’ academic performance,
 #### Insight: Younger students are the heaviest users of social media.
 ![image](https://github.com/user-attachments/assets/adaa45e1-5c80-49e9-bf93-88e323e790ca)
 
-## Dash Board
+# Dash Board
 ![image](https://github.com/user-attachments/assets/d8c8e216-a1e7-404f-9068-22d77a558078)
 
 ## Overall Conclusion 
