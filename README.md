@@ -42,6 +42,21 @@ To analyze the impact of social media usage on students’ academic performance,
 #### Insight: Younger students are the heaviest users of social media.
 ![image](https://github.com/user-attachments/assets/adaa45e1-5c80-49e9-bf93-88e323e790ca)
 
+## Dash Board
+![image](https://github.com/user-attachments/assets/d8c8e216-a1e7-404f-9068-22d77a558078)
+
+## Overall Conclusion 
+#### Facebook, Instagram, and Tik-Tok are the most used platforms among students.
+#### Students aged 16–18 spend the most time on social media (5.4 hours/day).
+#### More time on social media = lower mental health scores.
+#### Higher addiction levels = less sleep (only 6 hours/night for high scorers).
+#### Over 60% of students say social media negatively affects academics.
+#### There's a need for awareness programs to promote healthy and balanced digital habits.
+
+
+
+
+
 
 
 
