@@ -13,7 +13,16 @@ This dashboard analyzes social media usage patterns among students, focusing on 
 ## Business Problem 
 To analyze the impact of social media usage on students’ academic performance, mental health, daily routine, and sleep patterns, with the goal of identifying harmful usage trends and promoting healthier digital habits.
 
-# ![image](https://github.com/user-attachments/assets/46bd92a2-c2c0-459c-a80a-95a49f4afde6) Key Insights from the Dashboard
+#  Key Insights from the Dashboard
+![image](https://github.com/user-attachments/assets/f22713cd-0c75-4755-9f7b-629dfb2e3641)
+
+## 1. Platform Popularity 
+### Facebook, Instagram, Tik-Tok, and WhatsApp are the top-used platforms.
+#### Insight: Students prefer entertainment and chat-based platforms over educational or professional ones like LinkedIn.
+
+
+
+
 
 
 
